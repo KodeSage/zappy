@@ -1,0 +1,78 @@
+# Zappy
+
+### Overview.
+
+Zappy is an NFT Marketplace for the Tokinization of Real World Assets Deployed on the Lightlink Blockchain
+
+### Marketplace Features
+- Open collections (User-generated content)
+  - Mint ERC-1155
+  - Creator's royalties support
+- Homepage content customization
+  - Featured NFTs
+  - Featured collections
+  - Featured users
+  - Custom section with featured elements
+- Search system
+  - Search NFTs
+  - Search collections
+  - Search users
+- Explore NFTs, collections and users with filtering and sorting systems
+  - Explore NFTs
+    - Filter by chain
+    - Filter by status
+    - Filter by price
+    - Filter by collection
+    - Filter by traits
+    - Sort by dates
+  - Explore collections
+    - Filter by chain
+    - Sort by volumes
+  - Explore users
+- Native currency and ERC20 support
+- Lazymint for NFTs
+- List NFTs on sale
+  - Partial filling
+  - Fixed price listing
+- Make offers on NFTs
+  - Partial filling
+  - Open offer
+- Purchase NFTs
+- User profile
+  - Account
+    - Profile edition
+    - Wallet page
+  - NFTs "on sale"
+  - NFTs "owned"
+  - NFTs "created"
+  - Offers ("bids") management
+  - Trades history
+  - Listings ("offers") management
+- User verification system (verified status)
+- Report system
+  - Report a user
+  - Report an NFT
+- Notifications
+  - In-app notifications
+  - Email notifications
+- NFT details
+  - Chain information
+  - Explorer link
+  - Media IPFS link
+  - Metadata IPFS link
+  - Traits with percentages
+- NFT history (activity)
+  - Lazyminted
+  - Minted
+  - Listed
+  - Purchased
+  - Transferred
+- Wallet connection with
+  - Metamask
+  - Coinbase
+  - WalletConnect
+  - Magic
+  - Rainbow
+- Multi-chain support
+- Multi currency support
+- Advanced fee customization support
